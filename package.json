@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "echo yay"
+  }
   "dependencies": {
     "apollo-server-lambda": "^2.8.1",
     "graphql": "^14.4.2",
